@@ -1,0 +1,4 @@
+user_id,email,phone,name
+1,john@example.com,123456,John
+2,doe@example.com,789012,Doe
+1,john@example.com,000111,Johnny
