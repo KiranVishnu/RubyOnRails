@@ -1,4 +1,4 @@
-user_id,email,phone,name
-1,john@example.com,123456,John
-2,doe@example.com,789012,Doe
-1,john@example.com,000111,Johnny
+user_id,name,email,phone
+1,ram,ram@test.com,9812345678
+2,Hari,hari@yahoo.com,9887667844
+3,saurav,saurav@gmail.com,9840222333
